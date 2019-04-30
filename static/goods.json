@@ -1,0 +1,201 @@
+{
+  "errno": 0,
+  "data": [{
+      "id": "1",
+      "name": "美味锅物",
+      "foods": [{
+          "id": "1",
+          "image": "static/image/two.png",
+          "name": "土豆",
+          "description": "土豆土豆好吃的土豆",
+          "price": 5,
+          "count": 0
+        }, {
+          "id": "2",
+          "image": "static/image/one.png",
+          "name": "不辣微辣中辣",
+          "description": "辣不辣由你选",
+          "price": 20,
+          "count": 0
+        },
+        {
+          "id": "3",
+          "image": "static/image/three.png",
+          "name": "玉米",
+          "description": "玉米玉米好吃的玉米",
+          "price": 10,
+          "count": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "日本料理",
+      "foods": [{
+          "id": "1",
+          "image": "static/image/one.png",
+          "name": "寿司寿司",
+          "description": "小公举卷+鳗鱼卷",
+          "price": 50,
+          "count": 0
+        },
+        {
+          "id": "2",
+          "image": "static/image/two.png",
+          "name": "三文鱼刺身",
+          "description": "绝对新鲜，有品味",
+          "price": 80,
+          "count": 0
+        },
+        {
+          "id": "3",
+          "image": "static/image/four.png",
+          "name": "北极贝沙拉",
+          "description": "沙拉沙拉沙拉",
+          "price": 50,
+          "count": 0
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "各式饮品",
+      "foods": [{
+        "id": "1",
+        "image": "static/image/one.png",
+        "name": "星巴克星冰乐大杯",
+        "description": "麦乐鸡5快-5快麦乐鸡",
+        "price": 228.50,
+        "count": 0
+        },
+        {
+          "id": "2",
+          "image": "static/image/two.png",
+          "name": "COCO特制薄荷汽水",
+          "description": "麦乐鸡5快-5快麦乐鸡",
+          "price": "36",
+          "count": 0
+        },
+        {
+          "id": "3",
+          "image": "static/image/three.png",
+          "name": "巴黎水1瓶",
+          "description": "麦乐鸡5快-5快麦乐鸡",
+          "price": 28,
+          "count": 0
+        },
+        {
+          "id": "4",
+          "image": "static/image/four.png",
+          "name": "可口玉米汁(热)",
+          "description": "麦乐鸡5快-5快麦乐鸡",
+          "price": 28,
+          "count": 0
+        },
+        {
+          "id": "5",
+          "image": "static/image/two.png",
+          "name": "COCO特制薄荷汽水",
+          "description": "麦乐鸡5快-5快麦乐鸡",
+          "price": "36",
+          "count": 0
+        },
+        {
+          "id": "6",
+          "image": "static/image/three.png",
+          "name": "巴黎水1瓶",
+          "description": "麦乐鸡5快-5快麦乐鸡",
+          "price": 28,
+          "count": 0
+        },
+        {
+          "id": "7",
+          "image": "static/image/four.png",
+          "name": "可口玉米汁(热)",
+          "description": "麦乐鸡5快-5快麦乐鸡",
+          "price": 28,
+          "count": 0
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "饭后甜点",
+      "foods": [{
+        "id": "1",
+        "image": "static/image/three.png",
+        "name": "芒果雪媚娘",
+        "description": "麦乐鸡5快-5快麦乐鸡",
+        "price": 28,
+        "count": 0
+        },
+        {
+          "id": "2",
+          "image": "static/image/four.png",
+          "name": "一点点奶茶",
+          "description": "麦乐鸡5快-5快麦乐鸡",
+          "price": 18,
+          "count": 0
+        },
+        {
+          "id": "3",
+          "image": "static/image/two.png",
+          "name": "草莓蛋糕",
+          "description": "麦乐鸡5快-5快麦乐鸡",
+          "price": 38,
+          "count": 0
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "豪华中餐帝王服务",
+      "foods": [{
+        "id": "1",
+        "image": "static/image/four.png",
+        "name": "龙虾龙虾",
+        "description": "麦乐鸡5快-5快麦乐鸡",
+        "price": 188,
+        "count": 0
+        },
+        {
+          "id": "2",
+          "image": "static/image/two.png",
+          "name": "大闸蟹大闸蟹",
+          "description": "麦乐鸡5快-5快麦乐鸡",
+          "price": 98,
+          "count": 0
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "可口水果",
+      "foods": [{
+        "id": "1",
+        "image": "static/image/four.png",
+        "name": "水果拼盘",
+        "description": "喜欢吃什么自己选",
+        "price": 28,
+        "count": 0
+        },
+        {
+          "id": "2",
+          "image": "static/image/one.png",
+          "name": "草莓",
+          "description": "霉莓芝士",
+          "price": 38,
+          "count": 0
+        },
+        {
+          "id": "3",
+          "image": "static/image/three.png",
+          "name": "西瓜",
+          "description": "特甜特甜",
+          "price": 28,
+          "count": 0
+        }
+      ]
+    }
+  ]
+}
